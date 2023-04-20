@@ -1,8 +1,8 @@
 ## Variational Autoencoder (VAE) on CIFAR10 with Pytorch
 
-![](./figures/test_epoch1.png)![test_epoch1](./figures/test_epoch50.png)![test_epoch1](./figures/test_epoch100.png)![test_epoch1](./figures/test_epoch150.png)![test_epoch1](./figures/test_epoch200.png)![test_epoch1](./figures/test_epoch250.png)![test_epoch1](./figures/test_epoch300.png)
+![](./figures/test_epoch1.png)![test_epoch1](./figures/test_epoch50.png)![test_epoch1](./figures/test_epoch100.png)![test_epoch1](./figures/test_epoch150.png)![test_epoch1](./figures/test_epoch200.png)![test_epoch1](./figures/test_epoch250.png)![test_epoch1](./figures/test_epoch300.png)![test_epoch1](./figures/test_epoch350.png)![test_epoch1](./figures/test_epoch400.png)
 
-epoch 1,50, 100, 150, 200, 250, 300, 300
+epoch 1,50, 100, 150, 200, 250, 300, 300, 350,400
 
 #### Some Crucial Tips
 
